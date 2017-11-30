@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Registrarse</string>
+    <string name="name">Nombre Completo</string>
+    <string name="phone">Telefono</string>
+    <string name="email">e-mail</string>
+    <string name="birthday">Fecha de Nacimiento</string>
+    <string name="details">Detalles del Contacto</string>
+    <string name="next">Siguiente</string>
+    <string name="edit">Editar Datos</string>
+    <string name="confirm">Confirmar Datos</string>
+    <string name="pName">Name</string>
+    <string name="pPhone">Phone</string>
+    <string name="pEmail">Email</string>
+    <string name="pBirthday">Birthday</string>
+    <string name="pDetails">Details</string>
+</resources>
